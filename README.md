@@ -1,1 +1,1 @@
-一个用HTML+CSS完成的简单页面，使用了<main><firgure><figcaption><section><blockquote>标签。
+一个用HTML+CSS完成的简单页面，使用了main,figure,figcaption,section,blockquote标签。
